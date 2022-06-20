@@ -1,0 +1,15 @@
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\bin\Debug\net6.0\Encoder-Decoder.exe
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\bin\Debug\net6.0\Encoder-Decoder.deps.json
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\bin\Debug\net6.0\Encoder-Decoder.runtimeconfig.json
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\bin\Debug\net6.0\Encoder-Decoder.dll
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\bin\Debug\net6.0\Encoder-Decoder.pdb
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.csproj.AssemblyReference.cache
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.AssemblyInfoInputs.cache
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.AssemblyInfo.cs
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.dll
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\refint\Encoder-Decoder.dll
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.pdb
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\Encoder-Decoder.genruntimeconfig.cache
+C:\Users\Wael\source\repos\Encoder-Decoder\Encoder-Decoder\obj\Debug\net6.0\ref\Encoder-Decoder.dll
